@@ -39,6 +39,9 @@ Open terminal and try execute some kali linux commands
 
 ![ehex671](https://github.com/Dhanashreemullaithasan/Metasploit-for-reconnaissance/assets/94165415/242a0166-1eb3-449d-8bc9-e7464a8bb3ca)
 
+![ex5eh6](https://github.com/Dhanashreemullaithasan/Metasploit-for-reconnaissance/assets/94165415/4052897f-9c59-4721-8c77-b56d732019b3)
+
+
 ![ex5eh5](https://github.com/Dhanashreemullaithasan/Metasploit-for-reconnaissance/assets/94165415/1cc1449e-fbc7-41b1-838c-216dc5800912)
 
 ## RESULT:
