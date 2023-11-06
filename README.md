@@ -24,6 +24,7 @@ Open terminal and try execute some kali linux commands
 
 
 ## OUTPUT:
+![ex5 eh](https://github.com/Dhanashreemullaithasan/Metasploit-for-reconnaissance/assets/94165415/de79cf94-dc68-4201-a795-954a2a432def)
 
 ![ehex67](https://github.com/Dhanashreemullaithasan/Metasploit-for-reconnaissance/assets/94165415/1730bcc0-7f34-4a53-91d6-bc9e762fd031)
 
